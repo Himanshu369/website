@@ -1,3 +1,2 @@
 FROM himanshu369/casestudyimage
-ADD index.html /var/www/html/ 
-#For Publish
+ADD index.html /var/www/html/
